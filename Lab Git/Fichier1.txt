@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Contenu du fichier 1 Dans master
+=======
+Contenu du fichier 1 Ohhhh yeahhh et nasus
+>>>>>>> Nasus
